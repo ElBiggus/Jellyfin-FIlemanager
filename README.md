@@ -1,4 +1,4 @@
-Maybe it was just me, but because Plex seemed pretty good at working out what show/season/episode something was just from the filename I got lazy and didn't really keep things very structured, so when I moved over to Jellyfin a lot of stuff broke; I did start reorganising the mess manually, but due to the aforementioned laziness the process stalled pretty quickly! I finally got fed up with half my library being "missing" so I decided to automate it and figured I'd share it in case there are others in the same boat - you can download it from here. (Windows only.)
+Maybe it was just me, but because Plex seemed pretty good at working out what show/season/episode something was just from the filename I got lazy and didn't really keep things very structured, so when I moved over to Jellyfin a lot of stuff broke; I did start reorganising the mess manually, but due to the aforementioned laziness the process stalled pretty quickly! I finally got fed up with half my library being "missing" so I decided to automate it and figured I'd share it in case there are others in the same boat.
 
 The UI is a bit primitive, so here's how to use it in "TV" mode:
 
